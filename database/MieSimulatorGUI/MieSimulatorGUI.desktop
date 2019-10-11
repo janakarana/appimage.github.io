@@ -1,8 +1,10 @@
 [Desktop Entry]
+[Desktop Entry]
 Type=Application
-Name=MieSimulatorGUI_v1_1
-Exec=MieSimulator_v1_1
-Icon=MieSimulator
+Name=MieSimulatorGUI
+Comment=MieSimulatorGUI by Virtual Photonics
+Exec=MieSimulatorGUI_v1_2
+Icon=MieSimulatorGUI
 Categories=Science;
 
 [AppImageHub]
