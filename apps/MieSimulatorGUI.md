@@ -3,7 +3,6 @@ layout: app
 
 permalink: /MieSimulatorGUI/
 description: MieSimulatorGUI by Virtual Photonics
-license: NOASSERTION
 
 icons:
   - MieSimulatorGUI/icons/256x256/MieSimulatorGUI.png
@@ -37,5 +36,4 @@ desktop:
       given on the command line.
     X-AppImage-Type: 2
     X-AppImage-Architecture: x86_64
-    X-AppImage-Payload-License: NOASSERTION
 ---
